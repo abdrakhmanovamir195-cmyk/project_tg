@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="InjectedReferences" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asgiref" />
+          <option value="asttokens" />
+          <option value="colorama" />
+          <option value="decorator" />
+          <option value="django-debug-toolbar" />
+          <option value="executing" />
+          <option value="ipython" />
+          <option value="jedi" />
+          <option value="matplotlib-inline" />
+          <option value="parso" />
+          <option value="Pillow" />
+          <option value="prompt-toolkit" />
+          <option value="psycopg2" />
+          <option value="pure-eval" />
+          <option value="Pygments" />
+          <option value="stack-data" />
+          <option value="traitlets" />
+          <option value="wcwidth" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedImportsInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  </profile>
+</component>
